@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import TicTacToe from './Components/tictactoe/tictactoe'
+import TicTacToe from './Components/tictactoe/TicTacToe'
 
 // import './App.css'
 
